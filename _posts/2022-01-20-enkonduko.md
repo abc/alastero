@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Enkonduko"
-date:   2022-01-20 22:18:14 +0000
+date:   2022-01-19 17:32:18 +0000
 categories: daily
 ---
 Saluton, kaj bonvenon al mia blogo. Mi estas Alastero, komencanto en 
